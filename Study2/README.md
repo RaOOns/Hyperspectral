@@ -3,7 +3,8 @@
 We generated a pyhton code to predict chl-a after 15 minutes with real-time data.
 
 
-- We needed to reconstruct the data because the time zones of the three datasets did not exactly match(hyperspectral/meteorological/water quality data).
+- We needed to reconstruct the data because the time zones of the three datasets(hyperspectral/meteorological/water quality data) did not exactly match.\
+**(**[Dataset reconstructed code] yangpyeong.ipynb)**
 
 - We reconstructed the data in the form of lag data.
 
